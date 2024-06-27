@@ -19,6 +19,11 @@ header {
     padding: 1em 2em;
 }
 
+.logo-image {
+    height: 7em;
+    width: 16em;
+}
+
 main {
     flex: 1;
     display: flex;
